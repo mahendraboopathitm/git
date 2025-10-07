@@ -7,5 +7,5 @@ else:
             print("not an prime num")
             break
     else:
-        print("prime num")
+        print("prime number")
             
